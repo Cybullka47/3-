@@ -1,11 +1,10 @@
+/* CSS styles */
 body {
-background-image:#FFA07A
- dot {
 height: 8px;
 width: 8px;
 border-radius: 4px;
 /* скруглённые углы */
-background: blue;
+background: #FFE4B5;
 position: absolute;
 }
  h1 {
